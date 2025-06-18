@@ -25,7 +25,7 @@ This project uses the **EMNIST (Extended MNIST)** dataset, which is a large coll
     -   **Data Quality:** The dataset contains mislabeled and pre-augmented images (e.g., rotated by 90 degrees), which complicates classification.
 
 ![EMNIST Class Distribution](https://github.com/sandeepkumaraau/EMNIST-byclass-/blob/main/Project%20.pdf)
-> *Class distribution for the EMNIST ByClass split, highlighting the imbalance.*
+> *Class distribution for the EMNIST ByClass split, highlighting the imbalance in page 2.*
 
 ---
 
@@ -62,10 +62,10 @@ The model achieved performance very close to the established benchmarks for both
 | **EMNIST Balanced** | **90.66%** | 91.06%   | 90.59%   |
 
 #### Training Performance (ByClass Split - 88.42% Accuracy)
-![Training vs Validation - ByClass]([https://i.imgur.com/gKkCj6u.png](https://github.com/sandeepkumaraau/EMNIST-byclass-/blob/main/Project%20.pdf))
+![Training vs Validation - ByClass in page 6](https://github.com/sandeepkumaraau/EMNIST-byclass-/blob/main/Project%20.pdf)
 
 #### Training Performance (Balanced Split - 90.66% Accuracy)
-![Training vs Validation - Balanced]([https://i.imgur.com/uCgL9W7.png](https://github.com/sandeepkumaraau/EMNIST-byclass-/blob/main/Project%20.pdf))
+![Training vs Validation - Balanced in page 7](https://github.com/sandeepkumaraau/EMNIST-byclass-/blob/main/Project%20.pdf)
 
 ---
 
