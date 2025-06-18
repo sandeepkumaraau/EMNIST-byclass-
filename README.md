@@ -24,7 +24,7 @@ This project uses the **EMNIST (Extended MNIST)** dataset, which is a large coll
     -   **Class Imbalance:** In the *ByClass* split, the most frequent class appears over 17 times more often than the least frequent one (33,374 vs 1,896 samples).
     -   **Data Quality:** The dataset contains mislabeled and pre-augmented images (e.g., rotated by 90 degrees), which complicates classification.
 
-![EMNIST Class Distribution](https://i.imgur.com/N710HDB.png)
+![EMNIST Class Distribution](https://github.com/sandeepkumaraau/EMNIST-byclass-/blob/main/Project%20.pdf)
 > *Class distribution for the EMNIST ByClass split, highlighting the imbalance.*
 
 ---
@@ -62,10 +62,10 @@ The model achieved performance very close to the established benchmarks for both
 | **EMNIST Balanced** | **90.66%** | 91.06%   | 90.59%   |
 
 #### Training Performance (ByClass Split - 88.42% Accuracy)
-![Training vs Validation - ByClass](https://i.imgur.com/gKkCj6u.png)
+![Training vs Validation - ByClass]([https://i.imgur.com/gKkCj6u.png](https://github.com/sandeepkumaraau/EMNIST-byclass-/blob/main/Project%20.pdf))
 
 #### Training Performance (Balanced Split - 90.66% Accuracy)
-![Training vs Validation - Balanced](https://i.imgur.com/uCgL9W7.png)
+![Training vs Validation - Balanced]([https://i.imgur.com/uCgL9W7.png](https://github.com/sandeepkumaraau/EMNIST-byclass-/blob/main/Project%20.pdf))
 
 ---
 
